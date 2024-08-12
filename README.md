@@ -12,8 +12,9 @@ Dumbledore's Word Cloud Dumbledore's word cloud reveals "Harry," "Snape," and "H
 
 Through these visually compelling word clouds, we gain captivating insights into the characters' central themes, relationships, and roles within the captivating universe of Harry Potter.
 
-Conclution
+Conclution:
 Throughout our enchanting journey into the world of Harry Potter characters, we conducted in-depth analyses using advanced techniques like Word2Vec models and visually appealing tools such as word clouds and 3D PCA representations. With these methods, we explored and revealed the essence of beloved characters, unearthing their distinctive traits, intricate relationships, and meaningful connections.
+![newplot](https://github.com/user-attachments/assets/8183c0f4-216f-49ad-b573-4d3faefe7ba4)
 
 By unraveling the strong bonds of friendship, the allure of darkness, and the triumph of love and courage, our analysis brought to light the captivating narratives that define the wizarding universe. As we conclude, the magic of Harry Potter continues to inspire and resonate with people of all ages, leaving an everlasting mark on hearts across the globe.
 ![image](https://github.com/user-attachments/assets/79fb7be4-07de-4b0e-8f86-9ead17ed38db)
